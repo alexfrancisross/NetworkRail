@@ -1,6 +1,6 @@
-﻿--DROP TABLE NationalRail;
+﻿--DROP TABLE NetworkRail;
 
-CREATE TABLE NationalRail
+CREATE TABLE NetworkRail
 (
  event_type character varying(255),
  gbtt_timestamp timestamp,
